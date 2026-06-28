@@ -94,3 +94,21 @@ print(a%b)=2
 
 Author
 Kavya R
+
+
+
+## String Manipulation
+# Topics Covered
+
+- String Creation
+- String Concatenation and Repitition
+- String Indexing
+- String Slicing
+- String Methods
+- String Length
+- Uppercase and Lower case
+- Replace Method
+- Split Method
+
+### Learning Outcome
+This programs helped me understand how to create,access,modify, and manipulate strings in python using built-in methods.
