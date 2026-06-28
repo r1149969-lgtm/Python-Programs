@@ -92,7 +92,7 @@ print(a/b)=0.5
 print(a//b)=0
 print(a%b)=2
 
-Author
+## Author
 Kavya R
 
 
@@ -112,3 +112,6 @@ Kavya R
 
 ### Learning Outcome
 This programs helped me understand how to create,access,modify, and manipulate strings in python using built-in methods.
+
+## Author 
+Kavya R
